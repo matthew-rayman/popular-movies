@@ -4,6 +4,7 @@ import Movie from './components/Movie'
 import Filter from './Filter'
 import { AnimatePresence, motion } from "framer-motion"
 import Welcome from './Welcome'
+import "./Gradient.css"
 
 const App = () => {
 
